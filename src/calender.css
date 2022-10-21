@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: row;
+}
+.wrapper{
+    width: 450px;
+}
+.wrapper header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.calendar ul{
+    display: flex;
+    list-style:none;
+    flex-wrap: wrap;
+}

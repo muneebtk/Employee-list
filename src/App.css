@@ -1,0 +1,37 @@
+.drop_down{
+    width: 360px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    background-color: #d0f1ff;
+    cursor: pointer;
+}
+.select{
+    display: flex;
+    margin: 20px;
+    align-items: center;
+    color: #677e89;
+}
+.list_items{
+    width: 360px;
+    border: none;
+    height: 50px;
+    display: flex;
+    align-items: center;
+
+}
+.input_field{
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    align-self: center;
+    border: none;
+    background-color: #244a9b;
+    color: white;
+}
+.show_emp{
+    background-color:#2d4883 ;
+    width: 360px;
+    border-radius: 10px;
+    color: #00b3ff;
+}
